@@ -3,7 +3,7 @@ Scala Bootcamp She Goes Tech starting August 2021
 
  https://shegoestech.lv/
 
-## Scala Course Syllabus for Part 1. - 80h
+## Scala Course Syllabus for Part 1. - 100h
 
 ## Day 1 (3h)
 
@@ -130,7 +130,7 @@ Work with loops (For loop, ForEach)
 
 # Day 25
 
-# Day 26
+# Day 34
 
 Final Project Presentations
 
